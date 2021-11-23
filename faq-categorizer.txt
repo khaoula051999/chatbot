@@ -1,0 +1,28 @@
+greeting	 hi hi. hello how are you ? hey . hows it going good morning good evening good afternoon howdy salam
+conversation-continue	 ok wow great oh is it ? oh ohh Thats great Good Really hmm lemme think hm hmmm hmmmmm
+options-inquiry	  what are the options i have as a future bachelor?
+literaire-inquiry  literature. what's my literature school options?
+scientifique-inquiry science. what's the science school options?
+conversation-error what's your name? table
+conversation-complete	 Thanks done that's all thats it. thats it I am done Thank you for information Thank. thanks. thank you. thanks nothing else thats it.
+science-math  SM
+science-physic  SPhyics SP sphysics science physics
+economie Seco  economie Eco science economic l'economie
+ecole-maths   insa  ensam
+ecole-physics  insa  ensam cpge
+ecole-economie  encg iscae
+description-ensam ensam ensam?  what's ensam  ensam
+description-ensa ideas about ensa ensa? what's ensa  ensa
+description-iscae ideas about iscae iscae?  what's iscae  iscae
+description-encg ideas about encg encg?  what's encg  encg
+description-cpge ideas about cpge cpge?  what's cpge
+ecole-commerce    commerce universities ? what are commerce universities and schools in morocco? commerce in Morocco
+ecole-ingenierie   engineering universities? what are engineering universities and schools in morocco? ingenierie in Morocco
+ecole-medecine    medecine universities? what are medecine universities and schools in morocco? medecine in Morocco
+ecole-architecture   architecture universities?what are architecture universities and schools in morocco? architecture in Morocco
+ecole-infermerie   nursery universities? what are nursery universities and schools in morocco?  infermerie in morocco
+ecole-pharmacie    pharmacy universities? what are  pharmacy universities and schools in morocco? pharmacie in morocco
+ecole-technicien   technical universities? what are technical universities and schools in morocco? formation technicien
+ecole-tourisme    tourism universities? what are  tourism universities and schools in morocco? tourism in morocco
+ecole-militaire    militairy universities? what are militairy universities and schools in morocco ? military in morocco
+schools             how many shcool ? number of university in morocco , how many university
